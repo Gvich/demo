@@ -8,4 +8,4 @@ Watch tutorial on YouTube!
 
 ## local develpment
 
-1.Poen index.html in your browser.
+1.Open index.html in your browser.
